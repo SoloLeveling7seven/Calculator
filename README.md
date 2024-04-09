@@ -1,2 +1,2 @@
 # THIS IS JUST EXAMPLE
-<img src="https://graph.org/file/80d1f94e81bbc1acadb36.jpg" alt="Cover Image" width="550">
+<img src="https://te.legra.ph/file/b2434652de6b709aa51b7.jpg" alt="Cover Image" width="550">
